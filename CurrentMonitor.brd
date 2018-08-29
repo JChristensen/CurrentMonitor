@@ -4519,7 +4519,7 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <via x="79" y="20" extent="1-16" drill="0.8" shape="octagon"/>
 <via x="81" y="20" extent="1-16" drill="0.8" shape="octagon"/>
 <via x="27.5" y="34.3" extent="1-16" drill="0.5" shape="octagon"/>
-<via x="57.6" y="30.3" extent="1-16" drill="0.5" shape="octagon"/>
+<via x="57.6" y="30.3" extent="1-16" drill="0.7" shape="octagon"/>
 <via x="24.5" y="20.5" extent="1-16" drill="0.5" shape="octagon"/>
 <wire x1="26.3824" y1="20.5" x2="24.5" y2="20.5" width="0.3048" layer="1"/>
 <via x="13" y="20.7" extent="1-16" drill="0.7" shape="octagon"/>
