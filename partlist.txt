@@ -1,6 +1,6 @@
 Partlist
 
-Exported from CurrentMonitor.sch at 8/29/2018 1:56 PM
+Exported from CurrentMonitor.sch at 8/29/2018 5:31 PM
 
 EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
 
@@ -36,7 +36,7 @@ D13      Red               LEDD0805           D0805          _jc      1
 J1       Ext Pwr           POWER-JACK         KLDX-0202      _jc      1
 JP1      FTDI              M06LOCK            1X06_LOCK      SparkFun 1
 JP2      I2C               M04LOCK            1X04_LOCK      SparkFun 1
-JP3      Run/Pgm           M03PTH             1X03           SparkFun 1
+JP3      Run/Pgm           M03LOCK            1X03_LOCK      SparkFun 1
 L1       10uH              INDUCTORM0805      M0805          _jc      1
 R1       1K                R-US_M0805         M0805          _jc      1
 R2       1K                R-US_M0805         M0805          _jc      1
