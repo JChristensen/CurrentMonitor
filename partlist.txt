@@ -1,65 +1,65 @@
 Partlist
 
-Exported from CurrentMonitor.sch at 8/29/2018 10:35 AM
+Exported from CurrentMonitor.sch at 8/29/2018 1:56 PM
 
 EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
 
 Assembly variant: 
 
-Part     Value          Device             Package        Library  Sheet
+Part     Value             Device             Package        Library  Sheet
 
-A1       XB24CZ7WIT-004 ULINK_XBEEOVALPADS XBEE_OVAL_PADS _jc      1
-C1       47uF           CPOL-USE5-5        E5-5           _jc      1
-C2       100nF          C-USM0805          M0805          _jc      1
-C3       10uF           C-USM0805          M0805          _jc      1
-C4       1uF            C-USM0805          M0805          _jc      1
-C5       4.7uF          C-USM0805          M0805          _jc      1
-C6       100nF          C-USM0805          M0805          _jc      1
-C7       100nF          C-USM0805          M0805          _jc      1
-C8       100nF          C-USM0805          M0805          _jc      1
-C9       27pF           C-USM0805          M0805          _jc      1
-C10      27pF           C-USM0805          M0805          _jc      1
-C11      100nF          C-USM0805          M0805          _jc      1
-C12      100nF          C-USM0805          M0805          _jc      1
-C13      100nF          C-USM0805          M0805          _jc      1
-C14      100nF          C-USM0805          M0805          _jc      1
-C15      10uF           C-USM0805          M0805          _jc      1
-D1       1N4004         DIODE1N400X        1N400X         _jc      1
-D2       RSSI           LEDD0805A          D0805A         _jc      1
-D3       ASSOC          LEDD0805           D0805          _jc      1
-D4       1N4148         DIODESOD-323F-A    SOD-323F-A     _jc      1
-D5       1N4148         DIODESOD-323F-A    SOD-323F-A     _jc      1
-D6       1N4148         DIODESOD-323F      SOD-323F       _jc      1
-D11      Green          LEDD0805           D0805          _jc      1
-D12      Yellow         LEDD0805           D0805          _jc      1
-D13      Red            LEDD0805           D0805          _jc      1
-J1       Ext Pwr        POWER-JACK         KLDX-0202      _jc      1
-JP2      FTDI           M06LOCK            1X06_LOCK      SparkFun 1
-JP3      I2C            M04LOCK            1X04_LOCK      SparkFun 1
-JP4      Run/Pgm        M03PTH             1X03           SparkFun 1
-L1       10uH           INDUCTORM0805      M0805          _jc      1
-R1       1K             R-US_M0805         M0805          _jc      1
-R2       10K            R-US_M0805         M0805          _jc      1
-R3       1K             R-US_M0805         M0805          _jc      1
-R4       1K             R-US_M0805         M0805          _jc      1
-R5       4.7K           R-US_M0805         M0805          _jc      1
-R6       4.7K           R-US_M0805         M0805          _jc      1
-R7       200            R-US_M0805         M0805          _jc      1
-R8       200            R-US_M0805         M0805          _jc      1
-R9       2.2K           R-US_M0805         M0805          _jc      1
-R10      2.2K           R-US_M0805         M0805          _jc      1
-R11      1K             R-US_M0805         M0805          _jc      1
-R12      1K             R-US_M0805         M0805          _jc      1
-R13      1K             R-US_M0805         M0805          _jc      1
-R14      1K             R-US_M0805         M0805          _jc      1
-S1       RESET          10-XXOCT           B3F-10XXOCT    _jc      1
-TB1      A0             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-TB2      A1             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-TB3      D2             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-TB4      D3             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-TB5      D6             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-TB6      D7             OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
-U1       NCP1117DT50G   LD117ADT50TR       DPACK          v-reg    1
-U2       MCP1700        MCP1700SOT23-W     SOT23-W        _jc      1
-U3       ATmega328P-PU  AVR-MEGA8-PPTH     DIL28-3        SparkFun 1
-Y1       16MHz 18pF     RESONATOR          RESONATOR      _jc      1
+A1       XB24CZ7WIT-004    ULINK_XBEEOVALPADS XBEE_OVAL_PADS _jc      1
+C1       47uF              CPOL-USE5-5        E5-5           _jc      1
+C2       100nF             C-USM0805          M0805          _jc      1
+C3       10uF              C-USM0805          M0805          _jc      1
+C4       1uF               C-USM0805          M0805          _jc      1
+C5       4.7uF             C-USM0805          M0805          _jc      1
+C6       100nF             C-USM0805          M0805          _jc      1
+C7       100nF             C-USM0805          M0805          _jc      1
+C8       100nF             C-USM0805          M0805          _jc      1
+C9       27pF              C-USM0805          M0805          _jc      1
+C10      27pF              C-USM0805          M0805          _jc      1
+C11      100nF             C-USM0805          M0805          _jc      1
+C12      100nF             C-USM0805          M0805          _jc      1
+C13      100nF             C-USM0805          M0805          _jc      1
+C14      100nF             C-USM0805          M0805          _jc      1
+C15      4.7uF             C-USM0805          M0805          _jc      1
+D1       1N4004            DIODE1N400X        1N400X         _jc      1
+D2       RSSI              LEDD0805A          D0805A         _jc      1
+D3       ASSOC             LEDD0805           D0805          _jc      1
+D4       1N4148            DIODESOD-323F-A    SOD-323F-A     _jc      1
+D5       1N4148            DIODESOD-323F-A    SOD-323F-A     _jc      1
+D6       1N4148            DIODESOD-323F      SOD-323F       _jc      1
+D11      Green             LEDD0805           D0805          _jc      1
+D12      Yellow            LEDD0805           D0805          _jc      1
+D13      Red               LEDD0805           D0805          _jc      1
+J1       Ext Pwr           POWER-JACK         KLDX-0202      _jc      1
+JP1      FTDI              M06LOCK            1X06_LOCK      SparkFun 1
+JP2      I2C               M04LOCK            1X04_LOCK      SparkFun 1
+JP3      Run/Pgm           M03PTH             1X03           SparkFun 1
+L1       10uH              INDUCTORM0805      M0805          _jc      1
+R1       1K                R-US_M0805         M0805          _jc      1
+R2       1K                R-US_M0805         M0805          _jc      1
+R3       1K                R-US_M0805         M0805          _jc      1
+R4       10K               R-US_M0805         M0805          _jc      1
+R5       1K                R-US_M0805         M0805          _jc      1
+R6       1K                R-US_M0805         M0805          _jc      1
+R7       4.7K              R-US_M0805         M0805          _jc      1
+R8       4.7K              R-US_M0805         M0805          _jc      1
+R9       200               R-US_M0805         M0805          _jc      1
+R10      200               R-US_M0805         M0805          _jc      1
+R11      2.2K              R-US_M0805         M0805          _jc      1
+R12      2.2K              R-US_M0805         M0805          _jc      1
+R13      1K                R-US_M0805         M0805          _jc      1
+R14      1K                R-US_M0805         M0805          _jc      1
+S1       RESET             10-XXOCT           B3F-10XXOCT    _jc      1
+TB1      A0                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+TB2      A1                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+TB3      D2                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+TB4      D3                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+TB5      D6                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+TB6      D7                OST-TB-23.5MM      OST-TB-2-3.5MM _jc      1
+U1       NCP1117DT50G      LD117ADT50TR       DPACK          v-reg    1
+U2       MCP1700T-3302E/TT MCP1700SOT23-W     SOT23-W        _jc      1
+U3       ATmega328P-PU     AVR-MEGA8-PPTH     DIL28-3        SparkFun 1
+Y1       16MHz 18pF        RESONATOR          RESONATOR      _jc      1
