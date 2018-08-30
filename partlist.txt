@@ -1,6 +1,6 @@
 Partlist
 
-Exported from CurrentMonitor.sch at 8/29/2018 5:31 PM
+Exported from CurrentMonitor.sch at 8/30/2018 4:15 PM
 
 EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
 

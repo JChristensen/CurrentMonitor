@@ -231,11 +231,11 @@ bit.ly/cur-mon</text>
 
 
 source</text>
-<text x="50" y="34" size="1.6764" layer="22" ratio="16" rot="SMR0" align="bottom-center">Current Monitor</text>
-<text x="50" y="28" size="1.27" layer="22" ratio="16" rot="SMR0" align="bottom-center">v1.1 jc 0818
+<text x="49" y="34" size="1.6764" layer="22" ratio="16" rot="SMR0" align="bottom-center">Current Monitor</text>
+<text x="49" y="28" size="1.27" layer="22" ratio="16" rot="SMR0" align="bottom-center">v1.1 jc 0818
 CC BY-SA 4.0
 bit.ly/cur-mon</text>
-<text x="33.8" y="29" size="1.27" layer="22" ratio="16" rot="SMR0" align="bottom-center">open
+<text x="32.8" y="29" size="1.27" layer="22" ratio="16" rot="SMR0" align="bottom-center">open
 source</text>
 <text x="84" y="10.5" size="1.27" layer="22" ratio="16" rot="SMR270" align="bottom-center">INPUT
 7-12 VDC</text>
@@ -4315,7 +4315,7 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <attribute name="VALUE" x="8.9" y="18.7" size="0.8128" layer="27" ratio="16" rot="R270"/>
 </element>
 <element name="U3" library="SparkFun" package="DIL28-3" value="ATmega328P-PU" x="49.19" y="21.48" smashed="yes">
-<attribute name="NAME" x="48.205" y="20.845" size="1.27" layer="25" ratio="16"/>
+<attribute name="NAME" x="50.205" y="20.845" size="1.27" layer="25" ratio="16"/>
 <attribute name="VALUE" x="51.095" y="20.845" size="1.27" layer="27" ratio="16"/>
 </element>
 <element name="Y1" library="_jc" package="RESONATOR" value="16MHz 18pF" x="55.5" y="13.3" smashed="yes">
@@ -4347,21 +4347,21 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <element name="JP2" library="SparkFun" package="1X04_LOCK" value="I2C" x="19.5" y="41" smashed="yes" rot="R180">
 <attribute name="VALUE" x="20.77" y="44.175" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R9" library="_jc" package="M0805" value="200" x="41.5" y="34" smashed="yes" rot="R180">
-<attribute name="NAME" x="39.1" y="33.4" size="0.8128" layer="25" ratio="16" rot="R90"/>
-<attribute name="VALUE" x="43" y="36.5" size="0.8128" layer="27" ratio="16" rot="R180"/>
+<element name="R9" library="_jc" package="M0805" value="200" x="41.5" y="33.5" smashed="yes" rot="R180">
+<attribute name="NAME" x="39.1" y="32.9" size="0.8128" layer="25" ratio="16" rot="R90"/>
+<attribute name="VALUE" x="43" y="36" size="0.8128" layer="27" ratio="16" rot="R180"/>
 </element>
-<element name="R10" library="_jc" package="M0805" value="200" x="34.5" y="34" smashed="yes">
-<attribute name="NAME" x="32.1" y="32.9" size="0.8128" layer="25" ratio="16" rot="R90"/>
-<attribute name="VALUE" x="33" y="31.5" size="0.8128" layer="27" ratio="16"/>
+<element name="R10" library="_jc" package="M0805" value="200" x="34.5" y="33.5" smashed="yes">
+<attribute name="NAME" x="32.1" y="32.4" size="0.8128" layer="25" ratio="16" rot="R90"/>
+<attribute name="VALUE" x="33" y="31" size="0.8128" layer="27" ratio="16"/>
 </element>
-<element name="R13" library="_jc" package="M0805" value="1K" x="41.5" y="31.3" smashed="yes">
-<attribute name="NAME" x="39.1" y="30.26" size="0.8128" layer="25" ratio="16" rot="R90"/>
-<attribute name="VALUE" x="40" y="28.8" size="0.8128" layer="27" ratio="16"/>
+<element name="R13" library="_jc" package="M0805" value="1K" x="41.5" y="30.8" smashed="yes">
+<attribute name="NAME" x="39.1" y="29.76" size="0.8128" layer="25" ratio="16" rot="R90"/>
+<attribute name="VALUE" x="40" y="28.3" size="0.8128" layer="27" ratio="16"/>
 </element>
-<element name="R14" library="_jc" package="M0805" value="1K" x="34.5" y="31.3" smashed="yes" rot="R180">
-<attribute name="NAME" x="32.1" y="30.3" size="0.8128" layer="25" ratio="16" rot="R90"/>
-<attribute name="VALUE" x="36" y="33.8" size="0.8128" layer="27" ratio="16" rot="R180"/>
+<element name="R14" library="_jc" package="M0805" value="1K" x="34.5" y="30.8" smashed="yes" rot="R180">
+<attribute name="NAME" x="32.1" y="29.8" size="0.8128" layer="25" ratio="16" rot="R90"/>
+<attribute name="VALUE" x="36" y="33.3" size="0.8128" layer="27" ratio="16" rot="R180"/>
 </element>
 <element name="R11" library="_jc" package="M0805" value="2.2K" x="27.5" y="37" smashed="yes" rot="R270">
 <attribute name="NAME" x="29" y="38.3" size="0.8128" layer="25" ratio="16" rot="R270"/>
@@ -4392,7 +4392,7 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <attribute name="VALUE" x="5.5" y="42" size="0.8128" layer="27" ratio="16" rot="R270"/>
 </element>
 <element name="LOGO1" library="ohw-logo" package="OSHW_8X100_NOTEXT" value="OSHW_LOGO_8MILX0100-NT" x="23.1" y="2.5"/>
-<element name="LOGO2" library="ohw-logo" package="OSHW_8X100_NOTEXT" value="OSHW_LOGO_8MILX0100-NT" x="35.5" y="32.5" rot="MR0"/>
+<element name="LOGO2" library="ohw-logo" package="OSHW_8X100_NOTEXT" value="OSHW_LOGO_8MILX0100-NT" x="34.5" y="32.5" rot="MR0"/>
 <element name="TB3" library="_jc" package="OST-TB-2-3.5MM" value="D2" x="48.5" y="39" smashed="yes" rot="R180">
 <attribute name="VALUE" x="46.7" y="43" size="1.27" layer="21" ratio="16" align="bottom-center"/>
 </element>
@@ -4747,20 +4747,20 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <signal name="ADC0">
 <contactref element="U3" pad="23"/>
 <contactref element="R13" pad="2"/>
-<wire x1="45.38" y1="25.29" x2="45.38" y2="26.82" width="0.3048" layer="1"/>
-<wire x1="45.38" y1="26.82" x2="42.6" y2="29.6" width="0.3048" layer="1"/>
-<wire x1="42.6" y1="29.6" x2="42.6" y2="31.15" width="0.3048" layer="1"/>
-<wire x1="42.6" y1="31.15" x2="42.45" y2="31.3" width="0.3048" layer="1"/>
+<wire x1="42.45" y1="30.8" x2="42.45" y2="28.85" width="0.3048" layer="1"/>
+<wire x1="42.45" y1="28.85" x2="45.4" y2="25.9" width="0.3048" layer="1"/>
+<wire x1="45.4" y1="25.9" x2="45.4" y2="25.31" width="0.3048" layer="1"/>
+<wire x1="45.4" y1="25.31" x2="45.38" y2="25.29" width="0.3048" layer="1"/>
 </signal>
 <signal name="ADC1">
 <contactref element="U3" pad="24"/>
 <contactref element="R14" pad="1"/>
-<wire x1="42.84" y1="25.29" x2="42.84" y2="27.66" width="0.3048" layer="1"/>
-<wire x1="42.84" y1="27.66" x2="41.5" y2="29" width="0.3048" layer="1"/>
-<wire x1="41.5" y1="29" x2="36.5" y2="29" width="0.3048" layer="1"/>
-<wire x1="36.5" y1="29" x2="35.5" y2="30" width="0.3048" layer="1"/>
-<wire x1="35.5" y1="30" x2="35.5" y2="31.25" width="0.3048" layer="1"/>
-<wire x1="35.5" y1="31.25" x2="35.45" y2="31.3" width="0.3048" layer="1"/>
+<wire x1="38.6" y1="28.5" x2="36.8" y2="30.3" width="0.3048" layer="1"/>
+<wire x1="36.8" y1="30.3" x2="35.95" y2="30.3" width="0.3048" layer="1"/>
+<wire x1="35.95" y1="30.3" x2="35.45" y2="30.8" width="0.3048" layer="1"/>
+<wire x1="38.6" y1="28.5" x2="40.5" y2="28.5" width="0.3048" layer="1"/>
+<wire x1="40.5" y1="28.5" x2="42.84" y2="26.16" width="0.3048" layer="1"/>
+<wire x1="42.84" y1="26.16" x2="42.84" y2="25.29" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$3">
 <contactref element="C15" pad="1"/>
@@ -4786,11 +4786,11 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <wire x1="36.25" y1="39" x2="36.25" y2="36.75" width="0.3048" layer="1"/>
 <wire x1="36.25" y1="36.75" x2="35.5" y2="36" width="0.3048" layer="1"/>
 <wire x1="35.5" y1="36" x2="35.5" y2="34.05" width="0.3048" layer="1"/>
-<wire x1="35.5" y1="34.05" x2="35.45" y2="34" width="0.3048" layer="1"/>
+<wire x1="35.5" y1="34.05" x2="35.45" y2="33.5" width="0.3048" layer="1"/>
 <wire x1="43.25" y1="39" x2="43.25" y2="37.25" width="0.3048" layer="1"/>
 <wire x1="43.25" y1="37.25" x2="42.5" y2="36.5" width="0.3048" layer="1"/>
 <wire x1="42.5" y1="36.5" x2="42.5" y2="34.05" width="0.3048" layer="1"/>
-<wire x1="42.5" y1="34.05" x2="42.45" y2="34" width="0.3048" layer="1"/>
+<wire x1="42.5" y1="34.05" x2="42.45" y2="33.5" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$15">
 <contactref element="R9" pad="2"/>
@@ -4799,8 +4799,8 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <wire x1="39.75" y1="39" x2="39.75" y2="36.75" width="0.3048" layer="1"/>
 <wire x1="39.75" y1="36.75" x2="40.5" y2="36" width="0.3048" layer="1"/>
 <wire x1="40.5" y1="36" x2="40.5" y2="34.05" width="0.3048" layer="1"/>
-<wire x1="40.5" y1="34.05" x2="40.55" y2="34" width="0.3048" layer="1"/>
-<wire x1="40.55" y1="34" x2="40.55" y2="31.3" width="0.3048" layer="1"/>
+<wire x1="40.5" y1="34.05" x2="40.55" y2="33.5" width="0.3048" layer="1"/>
+<wire x1="40.55" y1="33.5" x2="40.55" y2="30.8" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$16">
 <contactref element="R10" pad="1"/>
@@ -4809,8 +4809,8 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <wire x1="32.75" y1="39" x2="32.75" y2="36.75" width="0.3048" layer="1"/>
 <wire x1="32.75" y1="36.75" x2="33.5" y2="36" width="0.3048" layer="1"/>
 <wire x1="33.5" y1="36" x2="33.5" y2="34.05" width="0.3048" layer="1"/>
-<wire x1="33.5" y1="34.05" x2="33.55" y2="34" width="0.3048" layer="1"/>
-<wire x1="33.55" y1="34" x2="33.55" y2="31.3" width="0.3048" layer="1"/>
+<wire x1="33.5" y1="34.05" x2="33.55" y2="33.5" width="0.3048" layer="1"/>
+<wire x1="33.55" y1="33.5" x2="33.55" y2="30.8" width="0.3048" layer="1"/>
 </signal>
 <signal name="SDA">
 <contactref element="JP2" pad="2"/>
@@ -4876,26 +4876,25 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <signal name="PD3">
 <contactref element="U3" pad="5"/>
 <contactref element="TB4" pad="P$1"/>
-<wire x1="42.84" y1="17.67" x2="42.84" y2="21.14" width="0.3048" layer="1"/>
-<wire x1="42.84" y1="21.14" x2="43.8" y2="22.1" width="0.3048" layer="1"/>
-<wire x1="43.8" y1="22.1" x2="47.4" y2="22.1" width="0.3048" layer="1"/>
-<wire x1="47.4" y1="22.1" x2="49.1" y2="23.8" width="0.3048" layer="1"/>
-<wire x1="49.1" y1="23.8" x2="49.1" y2="26.7" width="0.3048" layer="1"/>
-<wire x1="49.1" y1="26.7" x2="48.4" y2="27.4" width="0.3048" layer="1"/>
-<wire x1="48.4" y1="27.4" x2="48.4" y2="31.1" width="0.3048" layer="1"/>
-<wire x1="48.4" y1="31.1" x2="53.8" y2="36.5" width="0.3048" layer="1"/>
-<wire x1="53.8" y1="36.5" x2="53.8" y2="38.95" width="0.3048" layer="1"/>
-<wire x1="53.8" y1="38.95" x2="53.75" y2="39" width="0.3048" layer="1"/>
+<wire x1="42.84" y1="17.67" x2="42.84" y2="19.34" width="0.3048" layer="1"/>
+<wire x1="42.84" y1="19.34" x2="43.5" y2="20" width="0.3048" layer="1"/>
+<wire x1="43.5" y1="20" x2="47.7" y2="20" width="0.3048" layer="1"/>
+<wire x1="47.7" y1="20" x2="49.1" y2="21.4" width="0.3048" layer="1"/>
+<wire x1="49.1" y1="21.4" x2="49.1" y2="26.8" width="0.3048" layer="1"/>
+<wire x1="49.1" y1="26.8" x2="48.8" y2="27.1" width="0.3048" layer="1"/>
+<wire x1="48.8" y1="27.1" x2="48.8" y2="31.8" width="0.3048" layer="1"/>
+<wire x1="48.8" y1="31.8" x2="53.75" y2="36.75" width="0.3048" layer="1"/>
+<wire x1="53.75" y1="36.75" x2="53.75" y2="39" width="0.3048" layer="1"/>
 </signal>
 <signal name="PD6">
 <contactref element="TB5" pad="P$1"/>
 <contactref element="U3" pad="12"/>
-<wire x1="60.62" y1="17.67" x2="60.62" y2="22.58" width="0.3048" layer="16"/>
-<wire x1="60.62" y1="22.58" x2="59.4" y2="23.8" width="0.3048" layer="16"/>
-<wire x1="59.4" y1="23.8" x2="59.4" y2="36.6" width="0.3048" layer="16"/>
-<wire x1="59.4" y1="36.6" x2="60.7" y2="37.9" width="0.3048" layer="16"/>
-<wire x1="60.7" y1="37.9" x2="60.7" y2="38.95" width="0.3048" layer="16"/>
-<wire x1="60.7" y1="38.95" x2="60.75" y2="39" width="0.3048" layer="16"/>
+<wire x1="60.62" y1="17.67" x2="60.62" y2="22.22" width="0.4064" layer="16"/>
+<wire x1="60.62" y1="22.22" x2="61.9" y2="23.5" width="0.4064" layer="16"/>
+<wire x1="61.9" y1="23.5" x2="61.9" y2="37.1" width="0.4064" layer="16"/>
+<wire x1="61.9" y1="37.1" x2="61" y2="38" width="0.4064" layer="16"/>
+<wire x1="61" y1="38" x2="61" y2="38.75" width="0.4064" layer="16"/>
+<wire x1="61" y1="38.75" x2="60.75" y2="39" width="0.4064" layer="16"/>
 </signal>
 <signal name="PD7">
 <contactref element="TB6" pad="P$1"/>
