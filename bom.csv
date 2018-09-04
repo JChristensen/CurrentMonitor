@@ -1,0 +1,35 @@
+Current Monitor,,,,,
+Bill of materials,,,,,
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=cceb9dd570,,,,,
+,,,,,
+Part No.,Order Qty.,Mouser #,Mfr. #,Manufacturer,Description
+A1,2,855-M22-7131042,M22-7131042,Harwin,Headers & Wire Housings 10 PIN SIL VERTICAL GOLD+TIN SOCKET
+A1,1,888-XB24CZ7WIT-004,XB24CZ7WIT-004,Digi International,Zigbee Modules (802.15.4) XBee ZB S2C TH Wire Antenna
+C1,1,667-ECA-1CM470B,ECA-1CM470B,Panasonic,Aluminum Electrolytic Capacitors - Radial Leaded Al Lytic Cap 85C Radial M Series
+"C2, C6, C7, C8, C11-14",8,581-08053C104K,08053C104KAT2A,AVX,Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V .1uF X7R 0805 10%
+C3,1,963-LMK212BJ106KG-T,LMK212BJ106KG-T,Taiyo Yuden,Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 10V X5R +/-10% 0805 Gen Purp
+C4,1,81-GRM21BR61C105KA1K,GRM21BR61C105KA01K,Murata,Multilayer Ceramic Capacitors MLCC - SMD/SMT 1uf 16V X5R +/-10% 0805
+"C5, C15",2,963-LMK212B7475KG-T,LMK212B7475KG-T,Taiyo Yuden,Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7uF 10V X7R +/-10% 0805 Gen Purp
+"C9, C10",2,603-CC805JRNPO9BN270,CC0805JRNPO9BN270,Yageo,Multilayer Ceramic Capacitors MLCC - SMD/SMT 27pF 50V NPO 5%
+D1,1,863-1N4004G,1N4004G,ON Semiconductor,Rectifiers 400V 1A Standard
+D12,1,859-LTST-C171KSKT,LTST-C171KSKT,Lite-On,Standard LEDs - SMD Yellow Clear 587nm
+"D2, D13",2,859-LTST-C171KRKT,LTST-C171KRKT,Lite-On,Standard LEDs - SMD Red Clear 55MCD
+"D3, D11",2,859-LTST-C171KGKT,LTST-C171KGKT,Lite-On,Standard LEDs - SMD Green Clear 571nm
+"D4, D5, D6",3,512-1N4148WS,1N4148WS,ON Semiconductor,"Diodes - General Purpose, Power, Switching Small Signal Diode"
+J1,1,806-KLDX-0202-B,KLDX-0202-B,Kycon,DC Power Connectors 2.5mm PCB JACK POWER JACK
+JP1,1,,,,"0.1” Header, male, 6-position"
+JP2,1,,,,"0.1” Header, female, 4-position"
+JP3,1,,,,"0.1” Header, male, 3-position"
+JP3,1,,,,Shorting block for 0.1” header
+L1,1,963-LBR2012T100K,LBR2012T100K,Taiyo Yuden,Fixed Inductors 0805 10uH 468mOhms +/-10%Tol 150mA
+"R1-3, R5-6, R13-14",7,603-RC0805FR-071KL,RC0805FR-071KL,Yageo,Thick Film Resistors - SMD 1K OHM 1%
+"R11, R12",2,603-RC0805FR-072K2L,RC0805FR-072K2L,Yageo,Thick Film Resistors - SMD 2.2K OHM 1%
+R4,1,603-RC0805FR-1310KL,RC0805FR-1310KL,Yageo,Thick Film Resistors - SMD 10K OHM 1%
+"R7, R8",2,603-RC0805FR-074K7L,RC0805FR-074K7L,Yageo,Thick Film Resistors - SMD 4.7K OHM 1%
+"R9, R10",2,603-RC0805FR-07200RL,RC0805FR-07200RL,Yageo,Thick Film Resistors - SMD 200 OHM 1%
+S1,1,653-B3F-1020,B3F-1020,Omron,Tactile Switches 6X6 Flat 5mm Btn Force 100g w/o Grd
+"TB1/2, TB3/4, TB5/6",3,651-1984633,1984633,Phoenix Contact,Fixed Terminal Blocks PT 1.5/4-3.5H 4POS HRZ 3.5mm SCREW
+U1,1,863-NCP1117DT50G,NCP1117DT50G,ON Semiconductor,LDO Voltage Regulators 5.0V 1A Positive
+U2,1,579-MCP1700T3302E/TT,MCP1700T-3302E/TT,Microchip,LDO Voltage Regulators 250mA Adj LDO 2%
+U3,1,556-ATMEGA328P-PU,ATMEGA328P-PU,Microchip,8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V
+Y1,1,815-ABL-16-B4Y,ABL-16.000MHz-B4Y,ABRACON,"Crystals 16.000MHZ, 18pF 30ppm -20C +70C"
